@@ -1,27 +1,10 @@
-# ScooterFrontend
-
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.0.10.
-
-## Development server
-
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
-
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
-
-## Build
-
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+![ScooterFrontend — Mozilla Firefox 15_2_2024 9_51_09 م](https://github.com/aabdelgowad943/scoter/assets/131953551/02eb255e-0416-4623-bf3b-292fb341b8fc)
+![ScooterFrontend — Mozilla Firefox 15_2_2024 9_50_52 م](https://github.com/aabdelgowad943/scoter/assets/131953551/9c8b34db-aaf5-4054-86ce-cb6243030302)
+![Re7la — Mozilla Firefox 15_2_2024 9_50_27 م](https://github.com/aabdelgowad943/scoter/assets/131953551/ddf910c5-e32e-4a6d-b0af-5aeb742a90a1)
+![Re7la — Mozilla Firefox 15_2_2024 9_50_13 م](https://github.com/aabdelgowad943/scoter/assets/131953551/b9f14124-2e7e-4276-870b-03c35cb67e14)
+![Re7la — Mozilla Firefox 15_2_2024 9_49_57 م](https://github.com/aabdelgowad943/scoter/assets/131953551/ea354158-7b4f-41c4-a849-400132ea7a57)
+![Re7la — Mozilla Firefox 15_2_2024 9_49_49 م](https://github.com/aabdelgowad943/scoter/assets/131953551/7d5f9401-1fd6-417c-9164-c98af273bc65)
+![Re7la — Mozilla Firefox 15_2_2024 9_49_41 م](https://github.com/aabdelgowad943/scoter/assets/131953551/a9bcf398-f846-4c3f-aed7-e895040236e6)
+![Re7la — Mozilla Firefox 15_2_2024 9_49_36 م](https://github.com/aabdelgowad943/scoter/assets/131953551/1925f3c8-1a04-49cf-8ab0-d9ed5ac14fb4)
+![Re7la — Mozilla Firefox 15_2_2024 9_49_32 م](https://github.com/aabdelgowad943/scoter/assets/131953551/c0e52e9e-e902-4856-9c1d-13737cbffd0f)
+![ScooterFrontend — Mozilla Firefox 15_2_2024 9_51_14 م](https://github.com/aabdelgowad943/scoter/assets/131953551/e5fc8043-7fe7-423d-bea0-97f60417cbde)
